@@ -4,6 +4,7 @@
  - 🌱 I’m currently learning Full Stack Web Development.
  - 🎯 Currently open to new opportunities where I can contribute and grow in the realm of Full-Stack Development....
  - 📫 How to reach me vishalbairwa0450@gmail.com
+   <br>
 🎓 Education-
    ◼Shrinathji Institute of Technology and Engineering, Nathdwara(Raj.)
      ◽ Pursuing Bachelor's degree in Computer Science 💻 (graduate in Aug 2024)
