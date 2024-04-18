@@ -1,15 +1,15 @@
 <br>🌟 About Me-
--👋 Hi, I’m vishal bairwa (vishalmehra66)
+ - 👋 Hi, I’m vishal bairwa (vishalmehra66)
  - 👀 I’m interested in Web Development
  - 🌱 I’m currently learning Full Stack Web Development.
  - 🎯 Currently open to new opportunities where I can contribute and grow in the realm of Full-Stack Development....
  - 📫 How to reach me vishalbairwa0450@gmail.com<br>
-🎓 Education-
+<br>🎓 Education-
    <br>◼Shrinathji Institute of Technology and Engineering, Nathdwara(Raj.)
        <br>◽ Pursuing Bachelor's degree in Computer Science 💻 (graduate in Aug 2024)
    <br>◼ Almabetter Private limited, Banglore.
        <br>◽ Pursuing PG Deploma in Full Stack Web Development 💻<br>
-🛠️ Languages and Tools-
+<br>🛠️ Languages and Tools-
    <br>Language - ◽ C ◽ c++ ◽ Python ◽ HTML ◽ CSS ◽ JavaScript 
    <br>Database - ◽ Sql ◽ MongoDB 
    <br>Tools    - ◽ VScode ◽ Git
