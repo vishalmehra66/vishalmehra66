@@ -6,15 +6,15 @@
  - 📫 How to reach me vishalbairwa0450@gmail.com
    <br>
 🎓 Education-
-   ◼Shrinathji Institute of Technology and Engineering, Nathdwara(Raj.)
+   <br>◼Shrinathji Institute of Technology and Engineering, Nathdwara(Raj.)
      ◽ Pursuing Bachelor's degree in Computer Science 💻 (graduate in Aug 2024)
    ◼ Almabetter Private limited, Banglore.
-     ◽ Pursuing PG Deploma in Full Stack Web Development 💻
-🛠️ Languages and Tools-
-   Language - ◽ C ◽ c++ ◽ Python ◽ HTML ◽ CSS ◽ JavaScript 
-   Database - ◽ Sql ◽ MongoDB 
-   Tools    - ◽ VScode ◽ Git
-🌟 Skills Highlight -
+     ◽ Pursuing PG Deploma in Full Stack Web Development 💻<br>
+🛠️ Languages and Tools-<br>
+   <br>Language - ◽ C ◽ c++ ◽ Python ◽ HTML ◽ CSS ◽ JavaScript 
+   <br>Database - ◽ Sql ◽ MongoDB 
+   <br>Tools    - ◽ VScode ◽ Git
+<br>🌟 Skills Highlight -
    🌐 Frontend-Development | Project Management | DevOps
    👥 Team Collaboration & Leadership | Effective Communication |
    🤝 Passionate about learning, teaching, and new job opportunities.
